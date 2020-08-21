@@ -34,7 +34,7 @@ def game_hash
         :steals => 3,
         :blocks => 1,
         :slam_dunks => 15},
-      {:player_name => "Manson Plumlee",
+      {:player_name => "Mason Plumlee",
         :number => 1,
         :shoe => 19,
         :points => 26,
